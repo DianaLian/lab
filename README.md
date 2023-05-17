@@ -33,6 +33,5 @@ git commit -m "Добавлено выравнивание по центру"
 
 ```sh
 echo "url=https://github.com" | git credential reject
-записать команду отправки изменений
- git push https://github.com/DianaLian/lab.git
+git push https://github.com/DianaLian/lab.git
 ```
